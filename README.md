@@ -7,8 +7,6 @@
 > * _[jQuery 1.X+](http://jquery.com/)_
 > * _[ax5core](http://ax5.io/ax5core)_
 > * _[bootstrap](http://getbootstrap.com/)_
-> * _[ax5calendar](http://ax5.io/ax5calendar)_
-> * _[ax5formatter](http://ax5.io/ax5formatter)_
 
 
 ### Install by bower
@@ -67,8 +65,6 @@ In npm, so pile on the package manager for the front end, you need to solve the 
 ```sh
 npm install jquery
 npm install ax5core
-npm install ax5ui-calendar
-npm install ax5ui-formatter
 npm install ax5ui-select
 ```
 
